@@ -9,5 +9,7 @@ public class Example
 		System.out.println("Name: " + sc.getName());
 		System.out.println("Age: " + sc.getAge());
 		System.out.println("Rollno: " + sc.getRoll());
+		System.out.printf("Kunal Mukherjee");
+		System.out.printf("nikhil");
 	}
 }
